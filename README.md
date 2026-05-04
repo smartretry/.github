@@ -1,9 +1,9 @@
-<img width="175" height="29" alt="smartretry-logo" src="https://github.com/user-attachments/assets/4b0e837a-0207-49e9-aca2-b1e5149c87a1" />
+[![image](https://github.com/user-attachments/assets/4b0e837a-0207-49e9-aca2-b1e5149c87a1)](https://www.smartretry.com)
 
 # SmartRetry can turn your declined transactions into revenue!
 A significant portion of declined transactions are recoverable. SmartRetry analyzes issuer signals and transaction data to reconstruct failed payments and recover lost revenue automatically.
 
-<img width="1999" height="1125" alt="image3" src="https://github.com/user-attachments/assets/40c988b1-fd1b-4176-9721-b6c608fa647e" />
+![image](https://github.com/user-attachments/assets/40c988b1-fd1b-4176-9721-b6c608fa647e)
 
 ## The friction in the payment layer
 - Billions of payment attempts are declined every year due to varies reasons
@@ -15,20 +15,21 @@ SmartRetry is the missing recovery layer for payment providers and merchants. It
 
 ## How it works
 
-<img width="1304" height="184" alt="image2" src="https://github.com/user-attachments/assets/d0aa2fd9-8e61-4a8b-9c50-a14453c3b1b7" />
+![image](https://github.com/user-attachments/assets/d0aa2fd9-8e61-4a8b-9c50-a14453c3b1b7)
 
 ( 1. Transaction fails ❌2. SmartRetry analyzes the failure + optimizes the request ⚙️3. Improved transaction is sent back to the issuer → Approved ✅)
 
 ## Flow of the steps
 
-<img width="1999" height="1125" alt="image4" src="https://github.com/user-attachments/assets/8b402ce6-f187-4fd9-aadf-76dfa4cebd7f" />
+![image](https://github.com/user-attachments/assets/8b402ce6-f187-4fd9-aadf-76dfa4cebd7f)
 
 ## Core Capabilities
 
-<img width="1999" height="1125" alt="image7" src="https://github.com/user-attachments/assets/f1ba2669-692c-4836-a1f0-79272864f2b6" />
-<img width="1999" height="1125" alt="image6" src="https://github.com/user-attachments/assets/0911d42e-94dd-4b35-a67c-8b87665d33ba" />
+![image](https://github.com/user-attachments/assets/f1ba2669-692c-4836-a1f0-79272864f2b6)
 
-<img width="1999" height="1125" alt="image1" src="https://github.com/user-attachments/assets/e8861c14-2e5a-45be-a773-24d43ef5c18a" />
+![image](https://github.com/user-attachments/assets/0911d42e-94dd-4b35-a67c-8b87665d33ba)
+
+![image](https://github.com/user-attachments/assets/e8861c14-2e5a-45be-a773-24d43ef5c18a)
 
 ## Why It Matters
 
@@ -47,6 +48,4 @@ Runs automatically in the background, with no manual retries or operational over
 Understand how much revenue is being lost to failed payments.
 SmartRetry can analyze your transactions and help you recover it.
 
-<a href="[https://example.com](https://www.smartretry.com/contact)">
-  <img width="420" height="120" alt="image5" src="https://github.com/user-attachments/assets/edc00557-b431-4875-a4fc-c6b4588890d9" />
-</a>
+[![image](https://github.com/user-attachments/assets/edc00557-b431-4875-a4fc-c6b4588890d9)](https://www.smartretry.com/contact)
