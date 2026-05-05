@@ -3,7 +3,8 @@
 # **SmartRetry can turn your declined transactions into revenue!**
 A significant portion of declined transactions are recoverable. SmartRetry analyzes issuer signals and transaction data to reconstruct failed payments and recover lost revenue automatically.
 
-![image](https://github.com/user-attachments/assets/40c988b1-fd1b-4176-9721-b6c608fa647e)
+<img width="700" height="393.75" alt="Slide 16_9 - 1" src="https://github.com/user-attachments/assets/1b48d1bb-30b6-4f7e-94a0-fd39dd7e5959" />
+
 
 ## **The friction in the payment layer**
 - Billions of payment attempts are declined every year due to varies reasons
@@ -25,17 +26,17 @@ SmartRetry is the missing recovery layer for payment providers and merchants. It
 
 <br />
 
-![image](https://github.com/user-attachments/assets/8b402ce6-f187-4fd9-aadf-76dfa4cebd7f)
+<img width="700" height="393.75" alt="Slide 16_9 - 2" src="https://github.com/user-attachments/assets/040ded57-52e7-4318-90b1-6f79eafc4920" />
+
 
 <br />
 
 ## Core Capabilities
 
-![image](https://github.com/user-attachments/assets/f1ba2669-692c-4836-a1f0-79272864f2b6)
+<img width="700" height="393.75" alt="Frame" src="https://github.com/user-attachments/assets/bd2a8960-484c-492f-821f-c445f0d3cfab" />
+<img width="700" height="393.75" alt="Frame-1" src="https://github.com/user-attachments/assets/e020b3b8-3e5d-4ebf-98fa-dcffc7d327b5" />
+<img width="700" height="393.75" alt="Frame-2" src="https://github.com/user-attachments/assets/d66b973d-7236-4991-ab62-7c32bc8ecf03" />
 
-![image](https://github.com/user-attachments/assets/0911d42e-94dd-4b35-a67c-8b87665d33ba)
-
-![image](https://github.com/user-attachments/assets/e8861c14-2e5a-45be-a773-24d43ef5c18a)
 
 <br />
 
