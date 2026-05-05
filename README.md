@@ -7,26 +7,27 @@ A significant portion of declined transactions are recoverable. SmartRetry analy
 
 ## **The friction in the payment layer**
 - Billions of payment attempts are declined every year due to varies reasons
+
 - A significant portion of them are legitimate transactions that could have been approved
+
 - Most payment providers are not designed to recover individual failed payments
 
+<br />
 
 ## **SmartRetry’s role**
 SmartRetry is the missing recovery layer for payment providers and merchants. It works alongside your PSP to analyze failed transactions in real time, identify what went wrong, and resubmit optimized payment requests — recovering revenue that would otherwise be lost.
 
+<br />
 
 ## How it works
 
-![image](https://github.com/user-attachments/assets/d0aa2fd9-8e61-4a8b-9c50-a14453c3b1b7)
+<img width="604" height="87" alt="Frame 29" src="https://github.com/user-attachments/assets/d0aa2fd9-8e61-4a8b-9c50-a14453c3b1b7" />
 
-( 1. Transaction fails ❌2. SmartRetry analyzes the failure + optimizes the request ⚙️3. Improved transaction is sent back to the issuer → Approved ✅)
-
-## Flow of the steps<img width="875" height="250" alt="Frame 29 (1)" src="https://github.com/user-attachments/assets/25350e07-e6ad-40fc-9657-0b61893a72b5" />
-![Uploading Frame 29.svg…]()
-
+<br />
 
 ![image](https://github.com/user-attachments/assets/8b402ce6-f187-4fd9-aadf-76dfa4cebd7f)
 
+<br />
 
 ## Core Capabilities
 
@@ -36,6 +37,7 @@ SmartRetry is the missing recovery layer for payment providers and merchants. It
 
 ![image](https://github.com/user-attachments/assets/e8861c14-2e5a-45be-a773-24d43ef5c18a)
 
+<br />
 
 ## Why It Matters
 
@@ -57,4 +59,4 @@ Runs automatically in the background, with no manual retries or operational over
 Understand how much revenue is being lost to failed payments.
 SmartRetry can analyze your transactions and help you recover it.
 
-<a href="https://www.smartretry.com/contact" title="Contact Us"><img src="https://github.com/user-attachments/assets/b578f45b-23b9-48e1-8594-233c860dd68d" width="300" /><a/>
+<img width="240" height="40" alt="Frame 29" src="https://github.com/user-attachments/assets/5f7f73c4-baf1-4a0c-8562-6c19d5e9f772" />
