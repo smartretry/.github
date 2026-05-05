@@ -21,7 +21,9 @@ SmartRetry is the missing recovery layer for payment providers and merchants. It
 
 ( 1. Transaction fails ❌2. SmartRetry analyzes the failure + optimizes the request ⚙️3. Improved transaction is sent back to the issuer → Approved ✅)
 
-## Flow of the steps
+## Flow of the steps<img width="875" height="250" alt="Frame 29 (1)" src="https://github.com/user-attachments/assets/25350e07-e6ad-40fc-9657-0b61893a72b5" />
+![Uploading Frame 29.svg…]()
+
 
 ![image](https://github.com/user-attachments/assets/8b402ce6-f187-4fd9-aadf-76dfa4cebd7f)
 
@@ -55,4 +57,4 @@ Runs automatically in the background, with no manual retries or operational over
 Understand how much revenue is being lost to failed payments.
 SmartRetry can analyze your transactions and help you recover it.
 
-[![image](https://github.com/user-attachments/assets/edc00557-b431-4875-a4fc-c6b4588890d9)](https://www.smartretry.com/contact)
+<a href="https://www.smartretry.com/contact" title="Contact Us"><img src="https://github.com/user-attachments/assets/b578f45b-23b9-48e1-8594-233c860dd68d" width="300" /><a/>
