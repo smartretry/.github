@@ -7,7 +7,7 @@
 ---
 
 [![Website](https://img.shields.io/badge/Website-smartretry.com-black.svg)](https://www.smartretry.com/)
-[![LinkedIn](htttps://img.shields.io/badge/LinkedIn-@smartretry-darkblue.svg)](https://www.linkedin.com/company/smartretry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@smartretry-darkblue.svg)](https://www.linkedin.com/company/smartretry)
 [![X](https://img.shields.io/badge/X-@smartretry-black.svg)](https://x.com/smartretry)
 [![YouTube](https://img.shields.io/badge/YouTube-@smartretry-red.svg)](https://www.youtube.com/@SmartRetry)
 [![Facebook](https://img.shields.io/badge/Facebook-@smartretry-1877F2.svg)](https://www.facebook.com/smartretry)
