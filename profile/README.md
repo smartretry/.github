@@ -1,5 +1,7 @@
 <p>
-  <img src="/assets/logo.svg" alt="SmartRetry - SmartRetry can turn your declined transactions into revenue!">
+  <a herf="https://www.smartretry.com" title="SmartRetry">
+    <img src="/assets/logo.svg" alt="SmartRetry - SmartRetry can turn your declined transactions into revenue!">
+  </a>
 </p>
 
 
