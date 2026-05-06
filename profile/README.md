@@ -4,6 +4,11 @@
   </a>
 </p>
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@smartretry-darkblue.svg)](https://www.linkedin.com/company/smartretry)
+[![YouTube](https://img.shields.io/badge/YouTube-@smartretry-red.svg)](https://www.youtube.com/@SmartRetry)
+
 
 # **SmartRetry can turn your declined transactions into revenue!**
 A significant portion of declined transactions are recoverable. SmartRetry analyzes issuer signals and transaction data to reconstruct failed payments and recover lost revenue automatically.
