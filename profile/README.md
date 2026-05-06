@@ -1,4 +1,7 @@
-[![image](https://github.com/user-attachments/assets/4b0e837a-0207-49e9-aca2-b1e5149c87a1)](https://www.smartretry.com)
+<p>
+  <img src="assets/logo.svg" alt="SmartRetry - SmartRetry can turn your declined transactions into revenue!">
+</p>
+
 
 # **SmartRetry can turn your declined transactions into revenue!**
 A significant portion of declined transactions are recoverable. SmartRetry analyzes issuer signals and transaction data to reconstruct failed payments and recover lost revenue automatically.
